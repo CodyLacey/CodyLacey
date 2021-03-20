@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cody Lacey</h1>
-<h3 align="center">A passionate full-stack software engineer from Kansas City</h3>
+<h3 align="center">A passionate full-stack software engineer from Kansas City, Missouri</h3>
 
 - 👨‍💻 All of my projects are available at [codylacey.com](codylacey.com)
 
