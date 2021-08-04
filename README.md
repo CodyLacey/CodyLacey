@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cody Lacey
+<h3 align="center">h3 👋, I'm Cody Lacey
  As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.</h1>
 <h3 align="center">A passionate full-stack software engineer from Kansas City, Missouri</h3>
 
