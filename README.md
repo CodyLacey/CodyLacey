@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Cody Lacey I am a Software Engineer based in Kansas City, MO. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.</h1>
+<h3 align="center">Hi 👋, I'm Cody Lacey. I am a Software Engineer based in Kansas City, MO. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.</h1>
 
 - 👨‍💻 All of my projects are available at [codylacey.com](codylacey.com)
 
