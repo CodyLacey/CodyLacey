@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [codylacey.com](codylacey.com)
 
-- 📫 How to reach me **cody605@gmail.com**
+- 📫 How to reach me **cody@codylacey.com**
 
 - ⚡ Fun fact **I'm a pilot**
 
