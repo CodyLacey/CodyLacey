@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **cody@codylacey.com**
 
-- ⚡ Fun fact **I'm  pilot**
+- ⚡ Fun fact **I'm a pilot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
