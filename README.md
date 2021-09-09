@@ -30,7 +30,7 @@
         <p> <a href="https://codylacey.com" rel="nofollow" target="_blank">Visit Site</a></p>
         <br>
         <a href="https://codylacey.com" rel="nofollow" target="_blank">
-            <img src="https://i.imgur.com/NuwAYdS.gif" width="100%" alt="Portfolio" data-canonical-src="https://i.imgur.com/NuwAYdS.gif" style="max-width:100%;">
+            <img src="https://i.imgur.com/r44eLB5.gif" width="100%" alt="Portfolio" data-canonical-src="https://i.imgur.com/r44eLB5.gif" style="max-width:100%;">
         </a>
         <p><strong>HTML5, CSS3, Bootstrap, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
